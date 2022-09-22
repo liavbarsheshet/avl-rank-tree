@@ -1,4 +1,4 @@
-#C++ AVL Rank Tree
+# C++ AVL Rank Tree
 Generic AVL (Balanced) Rank Tree written in c++.
 
 ---
